@@ -1,5 +1,5 @@
 {
-  "name": "@nodeable/code-style",
+  "name": "@nodeableio/code-style",
   "version": "1.0.0",
   "description": "nodeable linter rules",
   "repository": {
