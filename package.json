@@ -1,0 +1,26 @@
+{
+  "name": "@nodeable/code-style",
+  "version": "1.0.0",
+  "description": "nodeable linter rules",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodeableio/code-style.git"
+  },
+  "author": "Julian Lyndon-Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodeableio/code-style/issues"
+  },
+  "homepage": "https://github.com/nodeableio/code-style#readme",
+  "dependencies": {
+    "codelyzer": "^3.1.2",
+    "tslint": "^5.4.3",
+    "tslint-eslint-rules": "^4.1.1",
+    "vrsource-tslint-rules": "^5.1.0"
+  },
+  "peerDependencies": {
+    "@angular/compiler": "^4.1.3",
+    "@angular/core": "^4.1.3",
+    "typescript": "~2.3.4"
+  }
+}
