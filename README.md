@@ -14,5 +14,5 @@ $ npm install --save-dev @nodeable/code-style
 In your `tslint.json` config file, add the following:
 
 ```json
-"extends": "@nodeable/code-style/tslint"
+"extends": "@nodeableio/code-style/tslint"
 ```
